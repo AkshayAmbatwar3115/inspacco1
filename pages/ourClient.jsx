@@ -1,17 +1,17 @@
 import React from 'react'
 import Header from "../components/commons/Header/newNav";
 import Footer from "../components/commons/footer/footer";
-import bom from "../pages/clientimg/bom.png"
-import cboi from "../pages/clientimg/cbi1.png"
+import bom from "../pages/clientimg/maharashtra.png"
+import cboi from "../pages/clientimg/centralbank.png"
 import sbank from "../pages/clientimg/syn.png"
-import bob from "../pages/clientimg/bob.png"
-import boi from "../pages/clientimg/boi.png"
+import bob from "../pages/clientimg/bankbaroda.png"
+import boi from "../pages/clientimg/india.png"
 import retail from "../pages/clientimg/retail.png"
 import pnb from "../pages/clientimg/pnb.png"
-import sbi from "../pages/clientimg/sbi1.png"
+import sbi from "../pages/clientimg/state.png"
 import cipla from "../pages/clientimg/cipla.png"
 import indiabulls from "../pages/clientimg/indiabulls.png"
-import rbi from "../pages/clientimg/rbi1.png"
+import rbi from "../pages/clientimg/reserve.png"
 import canara from "../pages/clientimg/canara.png"
 import dyaa from "../pages/clientimg/dyaa.png"
 import sun from "../pages/clientimg/sun.png"
@@ -34,7 +34,7 @@ export default function ourClient() {
     }, []);
     return (
         <div>
-            <div classNameName="sticky-top">
+            <div className="sticky-top">
                 <Header />
             </div>
             <br /><br /><br />
